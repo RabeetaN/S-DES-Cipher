@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/beeta/OneDrive/UNIVERSITY STUFF/CS/Year 2/SEM 4/Information Security/ciphers/S-DES/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+
